@@ -1,0 +1,8 @@
+C:\Users\babbi\Documents\MCUXpressoIDE_11.6.1_8255\workspace\Sensors\drivers/fsl_clock.h:791:20:CLOCK_SetSimSafeDivs	8	static
+C:\Users\babbi\Documents\MCUXpressoIDE_11.6.1_8255\workspace\Sensors\drivers/fsl_clock.h:1122:20:CLOCK_SetXtal0Freq	16	static
+C:\Users\babbi\Documents\MCUXpressoIDE_11.6.1_8255\workspace\Sensors\drivers/fsl_smc.h:286:20:SMC_SetPowerModeProtection	16	static
+C:\Users\babbi\Documents\MCUXpressoIDE_11.6.1_8255\workspace\Sensors\drivers/fsl_smc.h:305:33:SMC_GetPowerModeState	16	static
+../board/clock_config.c:74:13:CLOCK_CONFIG_SetFllExtRefDiv	16	static
+../board/clock_config.c:82:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:160:6:BOARD_BootClockRUN	8	static
+../board/clock_config.c:251:6:BOARD_BootClockVLPR	8	static
